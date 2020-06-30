@@ -1,24 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/xdg-cache.svg?longCache=True)](https://pypi.org/project/xdg-cache/)
-[![](https://img.shields.io/pypi/v/xdg-cache.svg?maxAge=3600)](https://pypi.org/project/xdg-cache/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/xdg-cache.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/xdg-cache.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/xdg-cache.svg?maxAge=3600)](https://pypi.org/project/xdg-cache/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/xdg-cache.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/xdg-cache.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install xdg-cache
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`xdg_cache.exists(key)` |return True if cache exists, else False
-`xdg_cache.read(key)` |return a file content string, return None if cache not exist
-`xdg_cache.rm(key)` |remove cache file
-`xdg_cache.write(key, string)` |write string to cache
 
 #### Examples
 ```python
@@ -34,5 +26,5 @@ True
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
